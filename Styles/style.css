@@ -1,0 +1,24 @@
+.welcome{
+  color: green;
+  float: right;
+  font-family: 'Comfortaa';
+
+}
+
+.login_form{
+  positon: center;
+  border: none;
+  font-family: 'Comfortaa', cursive;
+}
+
+#container{
+  font-family: 'Comfortaa', cursive;
+  margin: 50px;
+  align: center;
+  height: 200px;
+  width: 200px;
+}
+
+h4{
+  text-align: justify;
+}
